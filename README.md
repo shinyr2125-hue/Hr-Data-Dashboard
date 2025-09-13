@@ -1,2 +1,2 @@
 # Hr-Data-Dashboard
-This project focuses on analyzing HR data to uncover workforce insights and creating an interactive dashboard for decision-making. The main objective is to help HR teams track employee trends, identify workforce challenges, and support data-driven strategies.
+This project focuses on analyzing HR data to uncover workforce insights and creating an interactive dashboard for decision-making. The main objective is to help HR teams track employee trends, identify workforce challenges, and support data-driven strategies.This project focuses on analyzing HR data and creating an interactive Power BI dashboard to help HR teams track workforce metrics, identify attrition trends, and make data-driven decisions.
